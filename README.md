@@ -1,6 +1,5 @@
 # Compound Interest Calculator
 
-![Build Status](https://github.com/your-username/compound-interest-calculator/actions/workflows/ci.yml/badge.svg)
 
 A simple Java console app to calculate compound interest. Enter your principal, annual interest rate, compounding frequency, and years to see your investment grow!
 

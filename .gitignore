@@ -1,0 +1,27 @@
+# Compiled Java classes
+*.class
+
+# Package directories
+bin/
+out/
+
+# IntelliJ IDEA files
+*.iml
+.idea/
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# VS Code files
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
